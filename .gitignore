@@ -1,11 +1,1 @@
-.python-version
-densenet121_weights_tf.h5
-/**/__pycache__
-/data/images
-/.idea
-/experiments
-/data/Data_Entry_2017.csv
-/data/BBox_List_2017.csv
-venv
-config.ini
-*.pdf
+*.tar.gz
