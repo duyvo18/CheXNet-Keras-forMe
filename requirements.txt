@@ -10,4 +10,4 @@ Pillow==5.0.0
 scikit-image==0.13.1
 imgaug==0.2.5
 CUDA==10.0
-cuDNN=7.4
+cuDNN==7.4

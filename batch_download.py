@@ -20,7 +20,7 @@ links = [
 
 for idx, link in enumerate(links):
     fn = 'images_%02d.tar.gz' % (idx+1)
-    print('downloading'+fn+'...')
+    print('downloading '+fn+'...')
     urllib.request.urlretrieve(link, fn)  # download the zip file
 
 print("Download complete. Please check the checksums")
